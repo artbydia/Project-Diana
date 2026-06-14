@@ -1,11 +1,28 @@
-# (Title)
+# Run or catch!Boom
 (Short description)
 
 ## (Installing)
-...
+Launch the App: Open the PINK_FULL_CIRCLE.pde file in Processing and press the Play (Run) button.
+
+Connect: Ensure all laptops are on the same Wi-Fi network.
+
+Assign Roles: Once the app window opens, click inside it and press one of the keys:
+
+Press [ 1 ] on the first laptop (Hunter 1).
+
+Press [ 2 ] on the second laptop (Hunter 2).
+
+Press [ 3 ] on the third laptop (Runner).
+
+Play: * Hunters: Move using your Mouse.
+
+
+Goal: Work together to capture the Runner. Keep the connection steady to trigger the explosion! 
 
 ## (Usage)
-...
+The primary use of this game is to facilitate collaborative and competitive social interaction between players.
+
+The Hunt: It forces players to communicate verbally to coordinate their movements. Because the Hunters have different visual shapes (Circle with Stroke vs. The Square) and different spatial roles, they must act as a team to corner the Runner.
 
 ## (Links)
 ...
